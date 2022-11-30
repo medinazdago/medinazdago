@@ -1,1 +1,3 @@
-### <center>Hi there, I'm Dago 👋</center>
+<div align="center">
+    Hi there, I'm Dago 👋
+</div>
