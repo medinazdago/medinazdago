@@ -1,8 +1,7 @@
 <div align="center">
 <h2> Hi there, I'm Dago 👋 </h2>
-  
-<a href="https://github.com/medinazdago/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/medinazdago/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/medinazdago/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/medinazdago/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/medinazdago/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/medinazdago/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
+
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-medinazdago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dagomedinaz/)](https://www.linkedin.com/in/dagomedinaz/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/medinazdago?label=follow&style=social)](https://github.com/medinazdago)
   
 </div>
