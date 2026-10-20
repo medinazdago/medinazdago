@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-personal-dark.svg">
+  <img src="logo-personal.svg" alt="Dagoberto Medina" width="96">
+</picture>
+
 # Hi there, I'm Dago 👋
 
 **Developer building AI agents, integrations and web products** · Costa Rica 🇨🇷
